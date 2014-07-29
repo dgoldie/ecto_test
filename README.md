@@ -1,4 +1,5 @@
 EctoTest
 ========
 
-** TODO: Add description **
+Elixir sips Ecto episode #1
+
