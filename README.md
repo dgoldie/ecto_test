@@ -3,7 +3,7 @@ EctoTest
 
 Elixirsips Ecto episode #1 updated
 
-## How to use in iex
+## How to use
 
 #### start iex
     $ iex -S mix
