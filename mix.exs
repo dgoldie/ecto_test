@@ -28,7 +28,6 @@ defmodule EctoTest.Mixfile do
     [
       { :postgrex, "~> 0.5.3" },
       { :ecto, github: "elixir-lang/ecto" }
-      # { :ecto, "~> 0.2.2" }
     ]
   end
 end
