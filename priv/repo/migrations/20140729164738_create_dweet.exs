@@ -1,4 +1,4 @@
-defmodule EctoTest.Repo.Migrations.CreateDweets do
+defmodule EctoTest.Repo.Migrations.CreateDweet do
   use Ecto.Migration
 
   def up do
